@@ -4,8 +4,13 @@ p {
     font-weight: bolder;
 }
 
-/* estilo para <span>*/ 
-span {
-    color: rgb(71, 255, 71);
-    font-style: italic;
+/*estilo para classe (class="verde")*/
+.verde {
+    color: green;
+    font-size: 42px;
+}
+
+/*estilo para id*/
+#p2 {
+    text-decoration: underline;
 }
