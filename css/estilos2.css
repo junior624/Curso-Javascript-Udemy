@@ -1,0 +1,11 @@
+/* estilo de <p> */
+p {
+    color: tomato;
+    font-weight: bolder;
+}
+
+/* estilo para <span>*/ 
+span {
+    color: rgb(71, 255, 71);
+    font-style: italic;
+}
