@@ -13,7 +13,7 @@ var cursos = [
 
 // definir função
 
-function imprimir(curso, indice){
+function imprimir(curso, indice) {
     console.log(indice + ' - ' + curso);
 }
 
